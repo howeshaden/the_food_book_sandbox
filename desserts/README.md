@@ -1,5 +1,5 @@
 ---
-description: For the sweet tooth!
+description: For the very sweet tooth!
 ---
 
 # Desserts
